@@ -1,0 +1,8 @@
+This is a sample! file, of words for the [indexing] assignment:
+
+Try this; File first {before} (trying) a larger file.
+
+The most common "word" in this file? 
+is the word file and it occurred 5 times'
+
+you're index's should display 18 words with no punctuations
